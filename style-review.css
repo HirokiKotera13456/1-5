@@ -1,0 +1,23 @@
+.top{
+  color:blue;
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+.nav-list{
+  list-style:none;
+  border-top: 1px solid;
+  border-bottom:1px solid;
+  text-align:center;
+}
+
+.nav-list-item{
+  display: inline-block;
+  margin-top:15px;
+  margin-bottom:15px;
+  margin-left:20px;
+  margin-right:20px;
+ 
+}
+
